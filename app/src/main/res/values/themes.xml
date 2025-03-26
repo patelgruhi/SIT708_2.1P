@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SIT703_TASK21P_UNITCONVERTER" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SIT703_TASK21P_UNITCONVERTER" parent="Base.Theme.SIT703_TASK21P_UNITCONVERTER" />
+</resources>
